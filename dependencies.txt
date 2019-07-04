@@ -1,0 +1,2 @@
+com.sonatype.depshield:multi-module-maven:pom:0.9.0-SNAPSHOT
+com.sonatype.depshield:multi-module-maven:pom:0.9.0-SNAPSHOT
